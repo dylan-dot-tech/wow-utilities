@@ -2,7 +2,7 @@
 
 ## Description
 
-A hierarchical list of all [[World of Warcraft]] zones and areas.
+A hierarchical list of all World of Warcraft zones and areas.[^1]
 
 ## Zones
 
@@ -359,7 +359,4 @@ A hierarchical list of all [[World of Warcraft]] zones and areas.
 9. Scenarios
 	1. TODO
 
-# Source
-
-https://www.wowhead.com/maps
-
+[^1]: https://www.wowhead.com/maps
