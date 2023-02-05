@@ -11,21 +11,25 @@ import requests
 import utilities as util
 
 
+# Lists all game expansion names, id's, and respective API endpoints
 def journal_expansions_index():
     url = "https://us.api.blizzard.com/data/wow/journal-expansion/index?namespace=static-us&locale=en_US&access_token={}".format(util.get_access_token())
     response = requests.get(url)
     return response.json()
 
+# Lists all dungeon & raid names, id's, and respective API endpoints for a given journal_expansion_id
 def journal_expansion(journal_expansion_id):
     url = "https://us.api.blizzard.com/data/wow/journal-expansion/{}?namespace=static-us&locale=en_US&access_token={}".format(journal_expansion_id, util.get_access_token())
     response = requests.get(url)
     return response.json()
 
+# Lists all encounter names, id's, and respective API endpoints
 def journal_encounters_index():
     url = "https://us.api.blizzard.com/data/wow/journal-encounter/index?namespace=static-us&locale=en_US&access_token={}".format(util.get_access_token())
     response = requests.get(url)
     return response.json()
 
+# Lists name, description, creature, item, section, instance, category, and mode metadata & respective API endpoints for a given journal_encounter_id
 def journal_encounter(journal_encounter_id):
     url = "https://us.api.blizzard.com/data/wow/journal-encounter/{}?namespace=static-us&locale=en_US&access_token={}".format(journal_encounter_id, util.get_access_token())
     response = requests.get(url)
