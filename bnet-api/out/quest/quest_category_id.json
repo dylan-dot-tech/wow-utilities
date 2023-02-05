@@ -1,0 +1,809 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://us.api.blizzard.com/data/wow/quest/category/101?namespace=static-10.0.5_47621-us"
+        }
+    },
+    "id": 101,
+    "category": "Fishing",
+    "quests": [
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/6607?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Nat Pagle, Angler Extreme",
+            "id": 6607
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/6608?namespace=static-10.0.5_47621-us"
+            },
+            "name": "You Too Good.",
+            "id": 6608
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/6609?namespace=static-10.0.5_47621-us"
+            },
+            "name": "I Got Nothin' Left!",
+            "id": 6609
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/8193?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Grand Prize",
+            "id": 8193
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/8194?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Apprentice Angler",
+            "id": 8194
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/8221?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rare Fish - Keefer's Angelfish",
+            "id": 8221
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/8224?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rare Fish - Dezian Queenfish",
+            "id": 8224
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/8225?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rare Fish - Brownell's Blue Striped Racer",
+            "id": 8225
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11531?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Strange Engine Part",
+            "id": 11531
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11665?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Crocolisks in the City",
+            "id": 11665
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11666?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Bait Bandits",
+            "id": 11666
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11667?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The One That Got Away",
+            "id": 11667
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11668?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Shrimpin' Ain't Easy",
+            "id": 11668
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/11669?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Felblood Fillet",
+            "id": 11669
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13692?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Sword and the Sea",
+            "id": 13692
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13826?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Nat Pagle, Angler Extreme",
+            "id": 13826
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13827?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Treasure!",
+            "id": 13827
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13830?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Ghostfish",
+            "id": 13830
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13832?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jewel Of The Sewers",
+            "id": 13832
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13833?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blood Is Thicker",
+            "id": 13833
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13834?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Dangerously Delicious",
+            "id": 13834
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/13836?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Disarmed!",
+            "id": 13836
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/24803?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Kalu'ak Fishing Derby",
+            "id": 24803
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/24806?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Better Luck Next Time",
+            "id": 24806
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26414?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Hitting a Walleye",
+            "id": 26414
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26420?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Diggin' For Worms",
+            "id": 26420
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26442?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rock Lobster",
+            "id": 26442
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26488?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Big Gulp",
+            "id": 26488
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26536?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Thunder Falls",
+            "id": 26536
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26543?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Clammy Hands",
+            "id": 26543
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26556?namespace=static-10.0.5_47621-us"
+            },
+            "name": "No Dumping Allowed",
+            "id": 26556
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26557?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Staggering Effort",
+            "id": 26557
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26572?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Golden Opportunity",
+            "id": 26572
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/26588?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Furious Catch",
+            "id": 26588
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29317?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fish Head",
+            "id": 29317
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29319?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tadpole Terror",
+            "id": 29319
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29320?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Like Pike?",
+            "id": 29320
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29321?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Happy as a Clam Digger",
+            "id": 29321
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29322?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Time for Slime",
+            "id": 29322
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29323?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Stocking Up",
+            "id": 29323
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29324?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Sister's Pendant",
+            "id": 29324
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29325?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Slippery Snack",
+            "id": 29325
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29342?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Cold Water Fishing",
+            "id": 29342
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29343?namespace=static-10.0.5_47621-us"
+            },
+            "name": "One fer the Ages",
+            "id": 29343
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29344?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fish fer Squrky",
+            "id": 29344
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29345?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Pond Predators",
+            "id": 29345
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29346?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Ring's the Thing",
+            "id": 29346
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29347?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Live Bait",
+            "id": 29347
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29348?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Race to Restock",
+            "id": 29348
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29349?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Craving Crayfish",
+            "id": 29349
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29350?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Gnomish Bait-o-Matic",
+            "id": 29350
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29354?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Shiny Baubles",
+            "id": 29354
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29359?namespace=static-10.0.5_47621-us"
+            },
+            "name": "An Old Favorite",
+            "id": 29359
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/29361?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Moat Monster!",
+            "id": 29361
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30584?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Shocking!",
+            "id": 30584
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30585?namespace=static-10.0.5_47621-us"
+            },
+            "name": "What Lurks Below",
+            "id": 30585
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30586?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jagged Abalone",
+            "id": 30586
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30588?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fishing for a Bruising",
+            "id": 30588
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30598?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Who Knew Fish Liked Eggs?",
+            "id": 30598
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30613?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Armored Carp",
+            "id": 30613
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30658?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Huff & Puff",
+            "id": 30658
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30678?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Like Bombing Fish In A Barrel",
+            "id": 30678
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30698?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Scavenger Hunt",
+            "id": 30698
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30700?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Snapclaw",
+            "id": 30700
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30701?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Viseclaw Soup",
+            "id": 30701
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30753?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jumping the Shark",
+            "id": 30753
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30754?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Bright Bait",
+            "id": 30754
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/30763?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Piranha!",
+            "id": 30763
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/31443?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Flying Tiger Gourami",
+            "id": 31443
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/31444?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Spinefish Alpha",
+            "id": 31444
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/31446?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Mimic Octopus",
+            "id": 31446
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/31664?namespace=static-10.0.5_47621-us"
+            },
+            "name": "An Angler's Quest",
+            "id": 31664
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/32107?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Flying Tiger Gourami",
+            "id": 32107
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/32684?namespace=static-10.0.5_47621-us"
+            },
+            "name": "You Want Fish?",
+            "id": 32684
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/32685?namespace=static-10.0.5_47621-us"
+            },
+            "name": "No Fishing Pole Necessary!",
+            "id": 32685
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/34194?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Looking For Help",
+            "id": 34194
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/34758?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Looking For Help",
+            "id": 34758
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/34846?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fish Fight",
+            "id": 34846
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35066?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fire Ammonite",
+            "id": 35066
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35071?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jawless Skulker",
+            "id": 35071
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35072?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fat Sleeper",
+            "id": 35072
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35073?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blind Lake Sturgeon",
+            "id": 35073
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35074?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blackwater Whiptail",
+            "id": 35074
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/35075?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Abyssal Gulper Eel",
+            "id": 35075
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36131?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Proving Your Worth",
+            "id": 36131
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36132?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Anglin' In Our Garrison",
+            "id": 36132
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36141?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Icespine Stingers",
+            "id": 36141
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36199?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Moonshell Claws",
+            "id": 36199
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36201?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Proving Your Worth",
+            "id": 36201
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36202?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Anglin' In Our Garrison",
+            "id": 36202
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36510?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fire Ammonite",
+            "id": 36510
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36511?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jawless Skulker",
+            "id": 36511
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36513?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fat Sleeper",
+            "id": 36513
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36514?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blind Lake Sturgeon",
+            "id": 36514
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36515?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blackwater Whiptail",
+            "id": 36515
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36517?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Abyssal Gulper Eel",
+            "id": 36517
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36608?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Finding Nat Pagle",
+            "id": 36608
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36609?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Great Angler Returns",
+            "id": 36609
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36611?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A True Draenor Angler",
+            "id": 36611
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36612?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Luring Nat",
+            "id": 36612
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36616?namespace=static-10.0.5_47621-us"
+            },
+            "name": "An Angler on Our Team",
+            "id": 36616
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36800?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fire Ammonite Lunker",
+            "id": 36800
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36802?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Abyssal Gulper Lunker",
+            "id": 36802
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36803?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blackwater Whiptail Lunker",
+            "id": 36803
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36804?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Blind Lake Lunker",
+            "id": 36804
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36805?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fat Sleeper Lunker",
+            "id": 36805
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36806?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Jawless Skulker Lunker",
+            "id": 36806
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36870?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Luring Nat",
+            "id": 36870
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/36882?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Great Angler Returns",
+            "id": 36882
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/38406?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Sea Scorpion Lunker",
+            "id": 38406
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/39283?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Felmouth Frenzy Lunker",
+            "id": 39283
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/40960?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Luminous Pearl",
+            "id": 40960
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/40961?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Dalaran Fountain",
+            "id": 40961
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/41010?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fish Frenzy",
+            "id": 41010
+        }
+    ]
+}

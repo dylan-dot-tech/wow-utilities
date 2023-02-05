@@ -1,0 +1,1817 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://us.api.blizzard.com/data/wow/quest/area/13646?namespace=static-10.0.5_47621-us"
+        }
+    },
+    "id": 13646,
+    "area": "The Azure Span",
+    "quests": [
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65279?namespace=static-10.0.5_47621-us"
+            },
+            "name": "By Royal Decree",
+            "id": 65279
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65302?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Keys to the Kingdom",
+            "id": 65302
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65304?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Frostwing's Fate",
+            "id": 65304
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65306?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rot Rancher",
+            "id": 65306
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65594?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Making a Mountain Out of a Gnoll Hill",
+            "id": 65594
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65595?namespace=static-10.0.5_47621-us"
+            },
+            "name": "One Bad Apple",
+            "id": 65595
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65686?namespace=static-10.0.5_47621-us"
+            },
+            "name": "To the Azure Span",
+            "id": 65686
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65688?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Meeting Kalecgos",
+            "id": 65688
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65689?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Many Images of Kalecgos",
+            "id": 65689
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65702?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Driven Mad",
+            "id": 65702
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65709?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Arcane Pruning",
+            "id": 65709
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65750?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Eight-Legged Menace",
+            "id": 65750
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65751?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Platform Adjustments",
+            "id": 65751
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65752?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Arcane Annoyances",
+            "id": 65752
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65758?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Grungir the Explorer",
+            "id": 65758
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65769?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Icy Webs",
+            "id": 65769
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65832?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Dwarven Antifreeze",
+            "id": 65832
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65833?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Primalist Tampering",
+            "id": 65833
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65834?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Kill the Queen",
+            "id": 65834
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65838?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Breaching the Brackenhide",
+            "id": 65838
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65844?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Cut Out the Rot",
+            "id": 65844
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65845?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Echoes of the Fallen",
+            "id": 65845
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65846?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ley Litter",
+            "id": 65846
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65847?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Realignment",
+            "id": 65847
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65848?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tome-ward Bound",
+            "id": 65848
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65849?namespace=static-10.0.5_47621-us"
+            },
+            "name": "To Iskaara",
+            "id": 65849
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65850?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Cycle of the Sea",
+            "id": 65850
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65852?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Straight to the Top",
+            "id": 65852
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65854?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Reclaiming the Oathstone",
+            "id": 65854
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65855?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Aiding Azure Span",
+            "id": 65855
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65864?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Catch the Caravan",
+            "id": 65864
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65865?namespace=static-10.0.5_47621-us"
+            },
+            "name": "They've Got Us Pinned Down!",
+            "id": 65865
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65866?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Snap the Traps",
+            "id": 65866
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65867?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Howling in the Big Tree Hills",
+            "id": 65867
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65868?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Those Aren't for Chewing",
+            "id": 65868
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65869?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Another Ambush",
+            "id": 65869
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65870?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Supplies!",
+            "id": 65870
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65871?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Gnoll Way Out",
+            "id": 65871
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65872?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ill Gnolls with Ill Intent",
+            "id": 65872
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65873?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Leader of the Shadepaw Pack",
+            "id": 65873
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65874?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Rotten Revelation",
+            "id": 65874
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65886?namespace=static-10.0.5_47621-us"
+            },
+            "name": "To Rhonin's Shield",
+            "id": 65886
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65887?namespace=static-10.0.5_47621-us"
+            },
+            "name": "To the Mountain",
+            "id": 65887
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65911?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Alignment",
+            "id": 65911
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65914?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Mammoths Matter",
+            "id": 65914
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65925?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Culling the Cullers",
+            "id": 65925
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65926?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tackling the Falls",
+            "id": 65926
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65928?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Wayward Winds",
+            "id": 65928
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65929?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ice Breakers",
+            "id": 65929
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65930?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Wrestle of Wind and Water",
+            "id": 65930
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65943?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Primal Offensive",
+            "id": 65943
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65944?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Lava Burst",
+            "id": 65944
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65958?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Primal Power",
+            "id": 65958
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/65977?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Kirin Tor Recovery",
+            "id": 65977
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66007?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Free Air",
+            "id": 66007
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66009?namespace=static-10.0.5_47621-us"
+            },
+            "name": "In Defense of Vakthros",
+            "id": 66009
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66015?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Blue Dragon Oathstone",
+            "id": 66015
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66026?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Urgent Action Required",
+            "id": 66026
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66027?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Calling the Blue Dragons",
+            "id": 66027
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66141?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Broken Traditions, Broken Bodies",
+            "id": 66141
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66147?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Crystals in the Water",
+            "id": 66147
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66148?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Former Furbolg Family",
+            "id": 66148
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66149?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Elemental Influence",
+            "id": 66149
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66150?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rescuing Radza",
+            "id": 66150
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66151?namespace=static-10.0.5_47621-us"
+            },
+            "name": "His Stone Heart",
+            "id": 66151
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66152?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Nowhere to Go",
+            "id": 66152
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66154?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Salivatory Samples",
+            "id": 66154
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66155?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ruriq's River Rapids Ride",
+            "id": 66155
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66164?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fishy Fingers",
+            "id": 66164
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66175?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Field Experiment",
+            "id": 66175
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66176?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Elemental Experimentation",
+            "id": 66176
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66177?namespace=static-10.0.5_47621-us"
+            },
+            "name": "No Dwarf Left Behind",
+            "id": 66177
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66187?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Mad Mordigan & The Crystal King",
+            "id": 66187
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66195?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Flaming for Gold",
+            "id": 66195
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66197?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Filet Frenzy",
+            "id": 66197
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66199?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Wood Beats Cold",
+            "id": 66199
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66210?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Gather the Family",
+            "id": 66210
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66212?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Fishing: Aileron Seamoth",
+            "id": 66212
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66213?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Weave of a Tale",
+            "id": 66213
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66214?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Snow Scout",
+            "id": 66214
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66217?namespace=static-10.0.5_47621-us"
+            },
+            "name": "WANTED: Krojek the Shoreprowler",
+            "id": 66217
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66218?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Scampering Scamps",
+            "id": 66218
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66223?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Can We Keep It?",
+            "id": 66223
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66227?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Some Good Fishing",
+            "id": 66227
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66228?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Camp Antonidas",
+            "id": 66228
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66232?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Afront 'Till A Salt",
+            "id": 66232
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66239?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Spreading Decay",
+            "id": 66239
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66261?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Minor Setback",
+            "id": 66261
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66262?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Waste Water Cleanup",
+            "id": 66262
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66263?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Precision Approach",
+            "id": 66263
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66264?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Disarmed and Docile",
+            "id": 66264
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66265?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Who's Next?",
+            "id": 66265
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66266?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Filthy Mongrels",
+            "id": 66266
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66267?namespace=static-10.0.5_47621-us"
+            },
+            "name": "M.E.T.A.",
+            "id": 66267
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66268?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Third Try's the Charm",
+            "id": 66268
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66269?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Just To Be Sure",
+            "id": 66269
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66270?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Whack-a-Gnoll",
+            "id": 66270
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66352?namespace=static-10.0.5_47621-us"
+            },
+            "name": "What the Enemy Knows",
+            "id": 66352
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66353?namespace=static-10.0.5_47621-us"
+            },
+            "name": "R.A.D. Anomalies",
+            "id": 66353
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66391?namespace=static-10.0.5_47621-us"
+            },
+            "name": "To the Ruins!",
+            "id": 66391
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66422?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Expedition Continues!",
+            "id": 66422
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66423?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Worries and Validations",
+            "id": 66423
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66425?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Arcane Overload",
+            "id": 66425
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66426?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Running Out of Time",
+            "id": 66426
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66427?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Looming Menace",
+            "id": 66427
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66428?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Friendship For Granted",
+            "id": 66428
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66429?namespace=static-10.0.5_47621-us"
+            },
+            "name": "I Will Remember",
+            "id": 66429
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66488?namespace=static-10.0.5_47621-us"
+            },
+            "name": "WANTED: Frigellus",
+            "id": 66488
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66489?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Setting the Defense",
+            "id": 66489
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66493?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Send It!",
+            "id": 66493
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66500?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ways of Seeing",
+            "id": 66500
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66503?namespace=static-10.0.5_47621-us"
+            },
+            "name": "For The Love of Others",
+            "id": 66503
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66504?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Shard of Crystalized Mana",
+            "id": 66504
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66523?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tending the Forge",
+            "id": 66523
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66553?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Hollow Up",
+            "id": 66553
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66554?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Aggressive Self-Defence",
+            "id": 66554
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66555?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Bear With Me",
+            "id": 66555
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66556?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ice Cave Ya Got There",
+            "id": 66556
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66557?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Academic Acquaintances",
+            "id": 66557
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66558?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Rowie",
+            "id": 66558
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66559?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Back To Camp",
+            "id": 66559
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66582?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Power Procurement",
+            "id": 66582
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66622?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Wayward Tools",
+            "id": 66622
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66647?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Elemental Unfocus",
+            "id": 66647
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66671?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Path to Nowhere",
+            "id": 66671
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66699?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ask the Locals",
+            "id": 66699
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66703?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Snowball Effect",
+            "id": 66703
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66708?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Riders in the Snow",
+            "id": 66708
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66709?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Field Medic 101",
+            "id": 66709
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66715?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Extraction",
+            "id": 66715
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66724?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Gleamfisher",
+            "id": 66724
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66729?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Conditionals",
+            "id": 66729
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66730?namespace=static-10.0.5_47621-us"
+            },
+            "name": "True Survivors",
+            "id": 66730
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66781?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Matter of Taste",
+            "id": 66781
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66837?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Nothing for Breakfast",
+            "id": 66837
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66838?namespace=static-10.0.5_47621-us"
+            },
+            "name": "It's Cold Up Here",
+            "id": 66838
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66839?namespace=static-10.0.5_47621-us"
+            },
+            "name": "It's Brew Time!",
+            "id": 66839
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66840?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Water Safety",
+            "id": 66840
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66841?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Shard of the Past",
+            "id": 66841
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66843?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Out of Lukh",
+            "id": 66843
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66844?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Great Shokhari",
+            "id": 66844
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66845?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Legendary Foil",
+            "id": 66845
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66846?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Heart of the Deck",
+            "id": 66846
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66939?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Hunting the Huntmaster",
+            "id": 66939
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66946?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Sprint",
+            "id": 66946
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66947?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Sprint - Advanced",
+            "id": 66947
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66957?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Shadow In The Ice",
+            "id": 66957
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66958?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Protect And Herd",
+            "id": 66958
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66964?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Artifacts in the Wrong Hands",
+            "id": 66964
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66968?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Pruning The Pack",
+            "id": 66968
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66971?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Face of Death",
+            "id": 66971
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/66972?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Old Stonetusk",
+            "id": 66972
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67002?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Slalom",
+            "id": 67002
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67003?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Slalom - Advanced",
+            "id": 67003
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67011?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tale of an Adventure: Molten Core",
+            "id": 67011
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67031?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Vakthros Ascent",
+            "id": 67031
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67032?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Vakthros Ascent - Advanced",
+            "id": 67032
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67033?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Assemble the Defenses",
+            "id": 67033
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67035?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Preservation of Knowledge",
+            "id": 67035
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67036?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Wrath of the Kirin Tor",
+            "id": 67036
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67044?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Tale of a Hero: Yanikk",
+            "id": 67044
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67047?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Warm Away These Shivers",
+            "id": 67047
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67050?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Frostbite: Causes and Symptoms",
+            "id": 67050
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67066?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Delights to Delve For",
+            "id": 67066
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67111?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Ailing Apprentice",
+            "id": 67111
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67174?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Arcane Detection",
+            "id": 67174
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67175?namespace=static-10.0.5_47621-us"
+            },
+            "name": "How To Stop An Exploding Toy Boat",
+            "id": 67175
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67177?namespace=static-10.0.5_47621-us"
+            },
+            "name": "WANTED: Gorger",
+            "id": 67177
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67296?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Iskaara Tour",
+            "id": 67296
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67297?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Iskaara Tour - Advanced",
+            "id": 67297
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67299?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Drakes be Gone",
+            "id": 67299
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67565?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Frostland Flyover",
+            "id": 67565
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67566?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Frostland Flyover - Advanced",
+            "id": 67566
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67724?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Fending Flames",
+            "id": 67724
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67741?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Archive Ambit",
+            "id": 67741
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/67742?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Archive Ambit - Advanced",
+            "id": 67742
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/68639?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Prowling Polar Predators",
+            "id": 68639
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/68641?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Mossing the Mark",
+            "id": 68641
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/68642?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Needles to Say",
+            "id": 68642
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/68643?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Vitamins and Minerals",
+            "id": 68643
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/68644?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Sugar, Spice, and Everything Nice",
+            "id": 68644
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/69862?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Save a Slyvern",
+            "id": 69862
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/69904?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Suspiciously Quiet",
+            "id": 69904
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/69980?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Seavine: Fisherman Tinnak's Gift",
+            "id": 69980
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70041?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Storm-Eater's Fury",
+            "id": 70041
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70129?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Toejam the Terrible",
+            "id": 70129
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70154?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Gateway to Somewhere",
+            "id": 70154
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70156?namespace=static-10.0.5_47621-us"
+            },
+            "name": "An Ancient Awakening",
+            "id": 70156
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70166?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Joy of Painting",
+            "id": 70166
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70169?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Even Trees Need Friends",
+            "id": 70169
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70171?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Happy Little Accidents",
+            "id": 70171
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70215?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Curiosity is Key",
+            "id": 70215
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70338?namespace=static-10.0.5_47621-us"
+            },
+            "name": "They Took the Kits",
+            "id": 70338
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70542?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Rally",
+            "id": 70542
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70550?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Welcome to the Assembly",
+            "id": 70550
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70627?namespace=static-10.0.5_47621-us"
+            },
+            "name": "What of the Winterpelt Clan?",
+            "id": 70627
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70640?namespace=static-10.0.5_47621-us"
+            },
+            "name": "WANTED: Boss",
+            "id": 70640
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70642?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Pilfered Paraphernalia",
+            "id": 70642
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70643?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Arcane Explosives",
+            "id": 70643
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70644?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Taming the Wild Goat",
+            "id": 70644
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70713?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Highlands Fishing",
+            "id": 70713
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70746?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Shades of Blue",
+            "id": 70746
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70747?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Azure Wizard",
+            "id": 70747
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70748?namespace=static-10.0.5_47621-us"
+            },
+            "name": "For Blue Eyes Only",
+            "id": 70748
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70856?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Kill it with Fire",
+            "id": 70856
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70858?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Back into the Action",
+            "id": 70858
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70859?namespace=static-10.0.5_47621-us"
+            },
+            "name": "What the Guardian Beholds",
+            "id": 70859
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70871?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Iskaaran Fishing Net",
+            "id": 70871
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70893?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Community Feast",
+            "id": 70893
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70924?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Community Feast",
+            "id": 70924
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70925?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Community Feast",
+            "id": 70925
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70930?namespace=static-10.0.5_47621-us"
+            },
+            "name": "All Tea, No Shadeleaf",
+            "id": 70930
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70931?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Whispered Fragments",
+            "id": 70931
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70937?namespace=static-10.0.5_47621-us"
+            },
+            "name": "What Valthrux Once Was",
+            "id": 70937
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70946?namespace=static-10.0.5_47621-us"
+            },
+            "name": "No One May Wield It",
+            "id": 70946
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70970?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Good Intentions",
+            "id": 70970
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/70996?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Little Kelp for My Friends",
+            "id": 70996
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71000?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Barst Recruited",
+            "id": 71000
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71002?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Best Spell Ever",
+            "id": 71002
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71009?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Elementary, My Dear Drakonid",
+            "id": 71009
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71012?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Varsek Recruited",
+            "id": 71012
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71013?namespace=static-10.0.5_47621-us"
+            },
+            "name": "No Vengeance on an Empty Stomach",
+            "id": 71013
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71014?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Far Furbolg Friend",
+            "id": 71014
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71015?namespace=static-10.0.5_47621-us"
+            },
+            "name": "All Brawn, No Brains",
+            "id": 71015
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71016?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Grimtusk's Sister",
+            "id": 71016
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71017?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Naluki's Letter",
+            "id": 71017
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71094?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Help Is Our Way!",
+            "id": 71094
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71095?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Claw in Need",
+            "id": 71095
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71096?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Is A Claw Indeed",
+            "id": 71096
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71097?namespace=static-10.0.5_47621-us"
+            },
+            "name": "A Helping Claw",
+            "id": 71097
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71135?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Loose Ends",
+            "id": 71135
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71139?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Glowing Arcane Jewel",
+            "id": 71139
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71161?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Waygate: Vakthros",
+            "id": 71161
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71182?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Wayward Archivists",
+            "id": 71182
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71191?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Net Worth",
+            "id": 71191
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71233?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Falling Water",
+            "id": 71233
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71234?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Nook News",
+            "id": 71234
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/71235?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Field Mages",
+            "id": 71235
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72071?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Round Two, Fish!",
+            "id": 72071
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72079?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Community Feast",
+            "id": 72079
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72083?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Me Lucky Lure",
+            "id": 72083
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72268?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span",
+            "id": 72268
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72291?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Story of a Memorable Victory",
+            "id": 72291
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72292?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Story of a Spectacular Victory",
+            "id": 72292
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72307?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Thieving Gnolls",
+            "id": 72307
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72435?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Orientation: Iskaara",
+            "id": 72435
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72485?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Azure Span Tour",
+            "id": 72485
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72486?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Azure Span Advanced Tour",
+            "id": 72486
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72648?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Sparks of Life: The Azure Span",
+            "id": 72648
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72784?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Supporting the Cobalt Assembly",
+            "id": 72784
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72794?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Vakthros Ascent - Reverse",
+            "id": 72794
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72795?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Frostland Flyover - Reverse",
+            "id": 72795
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72796?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Sprint - Reverse",
+            "id": 72796
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72797?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Archive Ambit - Reverse",
+            "id": 72797
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72799?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azure Span Slalom - Reverse",
+            "id": 72799
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72800?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Iskaara Tour - Reverse",
+            "id": 72800
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/72984?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Azure Span Reverse Tour",
+            "id": 72984
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/quest/74382?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Community Feast",
+            "id": 74382
+        }
+    ]
+}

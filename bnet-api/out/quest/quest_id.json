@@ -1,0 +1,34 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://us.api.blizzard.com/data/wow/quest/72079?namespace=static-10.0.5_47621-us"
+        }
+    },
+    "id": 72079,
+    "title": "Community Feast",
+    "area": {
+        "key": {
+            "href": "https://us.api.blizzard.com/data/wow/quest/area/13646?namespace=static-10.0.5_47621-us"
+        },
+        "name": "The Azure Span",
+        "id": 13646
+    },
+    "requirements": {
+        "min_character_level": 60,
+        "max_character_level": 70
+    },
+    "rewards": {
+        "reputations": [
+            {
+                "reward": {
+                    "key": {
+                        "href": "https://us.api.blizzard.com/data/wow/reputation-faction/2511?namespace=static-10.0.5_47621-us"
+                    },
+                    "name": "Iskaara Tuskarr",
+                    "id": 2511
+                },
+                "value": 8
+            }
+        ]
+    }
+}
