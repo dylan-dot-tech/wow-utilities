@@ -1,0 +1,180 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-encounter/127?namespace=static-10.0.5_47621-us"
+        }
+    },
+    "id": 127,
+    "name": "Isiset, Construct of Magic",
+    "description": "Isiset serves to regulate the arcane energies contained within, and produced by, the Halls of Origination. Legend has it that this construct has become enraptured with her own arcane mastery and the perfection with which it seemingly endows her.",
+    "creatures": [
+        {
+            "id": 427,
+            "name": "Isiset",
+            "creature_display": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/media/creature-display/33465?namespace=static-10.0.5_47621-us"
+                },
+                "id": 33465
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": 36929,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/157609?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Scepter of Stargazing",
+                "id": 157609
+            }
+        },
+        {
+            "id": 36930,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/56414?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Blood of Isiset",
+                "id": 56414
+            }
+        },
+        {
+            "id": 36931,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/56413?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Legwraps of Astral Rain",
+                "id": 56413
+            }
+        },
+        {
+            "id": 36932,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/56412?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Ring of Blinding Stars",
+                "id": 56412
+            }
+        },
+        {
+            "id": 36933,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/56416?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Armguards of Unearthly Light",
+                "id": 56416
+            }
+        },
+        {
+            "id": 36934,
+            "item": {
+                "key": {
+                    "href": "https://us.api.blizzard.com/data/wow/item/56415?namespace=static-10.0.5_47621-us"
+                },
+                "name": "Nova Band",
+                "id": 56415
+            }
+        }
+    ],
+    "sections": [
+        {
+            "id": 2555,
+            "title": "Supernova",
+            "body_text": "Isiset unleashes a supernova, inflicting 0 Arcane damage and confusing any player who faces her for 4 sec."
+        },
+        {
+            "id": 2556,
+            "title": "Mirror Images",
+            "body_text": "When Isiset's remaining health reaches 66%, she splits into three separate creatures. Each of the creatures represents one of her three main abilities. Killing one of the three images prevents her from using that image's ability for the rest of the encounter, but the other two abilities are empowered.\r\n\r\nWhen Isiset's remaining health reaches 33%, she again splits but into two separate creatures. These two creatures cast and correspond to her two remaining abilities. Killing one of these two images prevents her from using that image's ability for the rest of the encounter, but the sole remaining ability is further empowered.",
+            "sections": [
+                {
+                    "id": 2557,
+                    "title": "Astral Rain",
+                    "body_text": "Killing this Mirror Image prevents Isiset from casting Astral Rain.",
+                    "creature_display": {
+                        "key": {
+                            "href": "https://us.api.blizzard.com/data/wow/media/creature-display/33466?namespace=static-10.0.5_47621-us"
+                        },
+                        "id": 33466
+                    }
+                },
+                {
+                    "id": 2558,
+                    "title": "Celestial Call",
+                    "body_text": "Killing this Mirror Image prevents Isiset from casting Celestial Call.",
+                    "creature_display": {
+                        "key": {
+                            "href": "https://us.api.blizzard.com/data/wow/media/creature-display/33466?namespace=static-10.0.5_47621-us"
+                        },
+                        "id": 33466
+                    }
+                },
+                {
+                    "id": 2559,
+                    "title": "Veil of Sky",
+                    "body_text": "Killing this Mirror Image prevents Isiset from casting Veil of Sky.",
+                    "creature_display": {
+                        "key": {
+                            "href": "https://us.api.blizzard.com/data/wow/media/creature-display/33466?namespace=static-10.0.5_47621-us"
+                        },
+                        "id": 33466
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2560,
+            "title": "Astral Rain",
+            "body_text": "Isiset summons a shower of stars, inflicting Arcane damage to all players within 20 yards every 3 seconds for 8 sec. The amount of Arcane damage dealt changes based on how many Mirror Images were previously destroyed by the players.\r\n\r\nNo Mirror Images destroyed: 0 Arcane damage\r\nOne Mirror Image destroyed: 0 Arcane damage\r\nTwo Mirror Images destroyed: 0 Arcane damage"
+        },
+        {
+            "id": 2561,
+            "title": "Celestial Call",
+            "body_text": "Isiset summons a number of Celestial Familiars to aid her. The number of Celestial Familiars summoned changes based on how many Mirror Images were previously destroyed by the players.\r\n\r\nNo Mirror Images destroyed: One Celestial Familiar\r\nOne Mirror Image destroyed: Two Celestial Familiars\r\nTwo Mirror Images destroyed: Three Celestial Familiars",
+            "sections": [
+                {
+                    "id": 2562,
+                    "title": "Celestial Familiar",
+                    "body_text": "These floating pieces of stars attack by casting Arcane Barrage at random players.",
+                    "sections": [
+                        {
+                            "id": 2563,
+                            "title": "Arcane Barrage",
+                            "body_text": "The Celestial Familiar unleashes a barrage of celestial energy to inflict 5,612 Arcane damage on a random enemy player."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2564,
+            "title": "Veil of Sky",
+            "body_text": "Isiset drapes herself in a protective shield that absorbs damage by draining Isiset's mana instead of her health and reflecting back a percentage of the spells cast at her. The amount of damage absorbed and the chance of a spell being reflected changes based on how many Mirror Images were previously destroyed by the players.\r\n\r\nNo Mirror Images destroyed: 0 damage absorbed and 20% chance to reflect spells\r\nOne Mirror Image destroyed: 0 damage absorbed and 40% chance to reflect spells\r\nTwo Mirror Images destroyed: 0 damage absorbed and 60% chance to reflect spells"
+        }
+    ],
+    "instance": {
+        "key": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-instance/70?namespace=static-10.0.5_47621-us"
+        },
+        "name": "Halls of Origination",
+        "id": 70
+    },
+    "category": {
+        "type": "DUNGEON"
+    },
+    "modes": [
+        {
+            "type": "NORMAL",
+            "name": "Normal"
+        },
+        {
+            "type": "HEROIC",
+            "name": "Heroic"
+        }
+    ]
+}

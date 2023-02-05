@@ -1,0 +1,188 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://us.api.blizzard.com/data/wow/journal-expansion/72?namespace=static-10.0.5_47621-us"
+        }
+    },
+    "id": 72,
+    "name": "Wrath of the Lich King",
+    "dungeons": [
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/271?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ahn'kahet: The Old Kingdom",
+            "id": 271
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/272?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Azjol-Nerub",
+            "id": 272
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/273?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Drak'Tharon Keep",
+            "id": 273
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/274?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Gundrak",
+            "id": 274
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/275?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Halls of Lightning",
+            "id": 275
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/276?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Halls of Reflection",
+            "id": 276
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/277?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Halls of Stone",
+            "id": 277
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/278?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Pit of Saron",
+            "id": 278
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/279?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Culling of Stratholme",
+            "id": 279
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/280?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Forge of Souls",
+            "id": 280
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/281?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Nexus",
+            "id": 281
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/282?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Oculus",
+            "id": 282
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/283?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Violet Hold",
+            "id": 283
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/284?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Trial of the Champion",
+            "id": 284
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/285?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Utgarde Keep",
+            "id": 285
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/286?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Utgarde Pinnacle",
+            "id": 286
+        }
+    ],
+    "raids": [
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/753?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Vault of Archavon",
+            "id": 753
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/754?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Naxxramas",
+            "id": 754
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/755?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Obsidian Sanctum",
+            "id": 755
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/756?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Eye of Eternity",
+            "id": 756
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/759?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Ulduar",
+            "id": 759
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/757?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Trial of the Crusader",
+            "id": 757
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/760?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Onyxia's Lair",
+            "id": 760
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/758?namespace=static-10.0.5_47621-us"
+            },
+            "name": "Icecrown Citadel",
+            "id": 758
+        },
+        {
+            "key": {
+                "href": "https://us.api.blizzard.com/data/wow/journal-instance/761?namespace=static-10.0.5_47621-us"
+            },
+            "name": "The Ruby Sanctum",
+            "id": 761
+        }
+    ]
+}
